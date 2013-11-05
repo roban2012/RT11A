@@ -36,6 +36,8 @@ Old:
 <a href= "pic10.html">Figure 3. Total Goods Trade Volumes and International Share, 100 Metropolitan Areas, 2010</a><br><br>
 <a href= "pic11.html">Largest Surpluses in Advanced Industry-Related Commodities</a><br><br>
 <a href= "pic12.html">Largest Surpluses in Non-Advanced Industry-related Commodities</a><br><br>
+
+
 <a href= "pic13.html">水资源分布（Water Resource）</a><br><br>
 <a href= "pic14.html">China Capital Market</a><br><br>
 <a href= "pic15.html">Who regulates the financial system</a><br><br>
@@ -56,6 +58,8 @@ Old:
 <a href= "pic28.html">Beijing Housing Price</a><br><br>
 <a href= "pic29.html">China: Growth of Mortgage Lending</a><br><br>
 <a href= "pic30.html">Real Estate Developer & Mortgage</a><br><br>
+
+
 <a href= "pic31.html">Exporting to the U.S. market</a><br><br>
 <a href= "pic32.html">Trade Volumes for China, the EU and the U.S. with Africa</a><br><br>
 <a href= "pic33.html">Changes in Exports</a><br><br>
@@ -75,6 +79,7 @@ Old:
 <a href= "pic47.html">Changes in Africa’s Exports</a><br><br>
 <a href= "pic48.html">Changes in African Countries’ Exports to the EU ,</a><br><br>
 <a href= "pic49.html">Changes in Intra-African Trade</a><br><br>
+
 <a href= "pic50.html">季风亚洲的海军基地</a><br><br>
 <a href= "pic51.html">传说中的珍珠链</a><br><br>
 <a href= "pic52.html">中国能源输入通道</a><br><br>
